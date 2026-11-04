@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="Project HTTP reachability status">
+  <rect width="900" height="150" rx="12" fill="#0f172a"/>
+  <text x="28" y="34" fill="#94a3b8" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">LIVE PROJECT CHECKS · HTTP REACHABILITY</text>
+  <text x="28" y="91" fill="#f8fafc" font-family="Arial,sans-serif" font-size="22" font-weight="600">TG-Drive</text>
+  <circle cx="225" cy="83" r="6" fill="#16a34a"/>
+  <text x="242" y="89" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="16">online</text>
+  <text x="480" y="91" fill="#f8fafc" font-family="Arial,sans-serif" font-size="22" font-weight="600">XyrenLabs</text>
+  <circle cx="680" cy="83" r="6" fill="#d97706"/>
+  <text x="697" y="89" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="16">check-failed</text>
+  <text x="28" y="126" fill="#64748b" font-family="Arial,sans-serif" font-size="11">Automated check · not a full uptime guarantee</text>
+</svg>
