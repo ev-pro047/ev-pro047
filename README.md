@@ -1,115 +1,136 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:101827,45:164e63,100:0891b2&text=EV-PRO&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Shared%20Engineering%20Account&descAlignY=60&descSize=18&animation=fadeIn" alt="EV-PRO — Shared Engineering Account" />
-
-<a href="https://github.com/ev-pro047">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=850&color=38BDF8&center=true&vCenter=true&width=760&lines=Two+founders%2C+one+shared+workspace;Building+useful+digital+products;Product+engineering+%7C+Web+platforms+%7C+Developer+tools;Turning+ideas+into+working+software" alt="Typing introduction" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&text=EV%20%2F%20PRO&fontSize=62&fontColor=F4F7FA&fontAlignY=43&desc=INDEPENDENT%20ENGINEERING%20COLLECTIVE&descSize=14&descAlignY=72&descColor=A7B8C8&color=0:0B1117,55:14232D,100:123B43" alt="EV / PRO — Independent Engineering Collective" />
 
 <br/>
 
-<a href="https://github.com/ev-pro047"><img src="https://komarev.com/ghpvc/?username=ev-pro047&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views" /></a>
-<a href="https://github.com/ev-pro047?tab=followers"><img src="https://img.shields.io/github/followers/ev-pro047?style=for-the-badge&logo=github&label=FOLLOWERS&color=334155" alt="GitHub followers" /></a>
-<a href="https://github.com/ev-pro047?tab=repositories"><img src="https://img.shields.io/github/stars/ev-pro047?style=for-the-badge&logo=github&label=STARS&color=0e7490" alt="GitHub stars" /></a>
+<a href="https://github.com/ev-pro047"><img src="https://img.shields.io/badge/GITHUB-EV--PRO-101820?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+&nbsp;
+<a href="https://xyrenlabs.in"><img src="https://img.shields.io/badge/STUDIO-XYRENLABS-123B43?style=flat-square&logo=googlechrome&logoColor=white" alt="XyrenLabs" /></a>
+&nbsp;
+<a href="https://tgdrive-2f2ed27ee0c2.herokuapp.com"><img src="https://img.shields.io/badge/PRODUCT-TG--DRIVE-123B43?style=flat-square&logo=telegram&logoColor=white" alt="TG-Drive" /></a>
+
+<br/><br/>
+
+### Two founders. One shared workspace.
+
+**We design, engineer, and ship digital products — from the first idea to production.**
 
 </div>
 
 ---
 
-## The people behind the account
-
-This is a shared engineering account used by two founders to collaborate on products, experiments, and software projects.
-
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h3>Akshat Kumar</h3>
-      <strong>Founder</strong>
-      <br/>
-      Product direction · Engineering · Development
+    <td width="50%" valign="top">
+      <sub><b>01 / FOUNDER</b></sub>
+      <h2>Akshat Kumar</h2>
+      Product direction<br/>
+      Engineering & development
     </td>
-    <td align="center" width="50%">
-      <h3>Sarthak Jha</h3>
-      <strong>Co-Founder</strong>
-      <br/>
-      Product collaboration · Engineering
+    <td width="50%" valign="top">
+      <sub><b>02 / CO-FOUNDER</b></sub>
+      <h2>Sarthak Jha</h2>
+      Product collaboration<br/>
+      Engineering
     </td>
   </tr>
 </table>
 
-> The repositories and contribution statistics here represent the shared account. They are not a breakdown of each founder's individual activity.
+> **One account, two contributors.** Projects, repositories, and GitHub activity shown here belong to this shared workspace; account-level statistics are not individual founder statistics.
 
-## What we work on
+## What we build
 
-- **Product engineering** — taking ideas from an initial concept to usable software.
-- **Full-stack applications** — web apps, dashboards, and product interfaces.
-- **Backend systems** — APIs, authentication, data models, and integrations.
-- **UI engineering** — responsive interfaces and practical user experiences.
-- **Deployment and reliability** — shipping, debugging, and improving production applications.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⌘ Product engineering</h3>
+      Turning concepts into useful, maintainable software.
+    </td>
+    <td width="50%" valign="top">
+      <h3>◈ Web applications</h3>
+      Full-stack platforms, dashboards, and product interfaces.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙ Backend systems</h3>
+      APIs, authentication, data architecture, and integrations.
+    </td>
+    <td width="50%" valign="top">
+      <h3>↗ Shipping & reliability</h3>
+      Deployment, debugging, performance, and production operations.
+    </td>
+  </tr>
+</table>
 
 ## Selected work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://tgdrive-2f2ed27ee0c2.herokuapp.com">TG-Drive</a></h3>
-      A Telegram-powered personal cloud drive with a dedicated web file-management experience.
+      <sub><b>PRODUCT / 001</b></sub>
+      <h2><a href="https://tgdrive-2f2ed27ee0c2.herokuapp.com">TG-Drive ↗</a></h2>
+      A Telegram-powered personal cloud drive, with a dedicated web interface for managing files.
       <br/><br/>
-      <a href="https://tgdrive-2f2ed27ee0c2.herokuapp.com"><img src="https://img.shields.io/badge/Live%20Application-Visit-0e7490?style=for-the-badge" alt="Visit TG-Drive" /></a>
+      <a href="https://tgdrive-2f2ed27ee0c2.herokuapp.com"><img src="https://img.shields.io/badge/OPEN_PRODUCT-0E7490?style=flat-square&logo=telegram&logoColor=white" alt="Open TG-Drive" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://xyrenlabs.in">XyrenLabs</a></h3>
-      Our development studio identity, focused on building digital products and software experiences.
+      <sub><b>STUDIO / 002</b></sub>
+      <h2><a href="https://xyrenlabs.in">XyrenLabs ↗</a></h2>
+      Our development studio, focused on shaping ideas into polished digital products and software experiences.
       <br/><br/>
-      <a href="https://xyrenlabs.in"><img src="https://img.shields.io/badge/Studio-XyrenLabs-334155?style=for-the-badge" alt="Visit XyrenLabs" /></a>
+      <a href="https://xyrenlabs.in"><img src="https://img.shields.io/badge/VISIT_STUDIO-123B43?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit XyrenLabs" /></a>
     </td>
   </tr>
 </table>
 
-## Technology
-
-Tools and technologies we work with across our projects:
+## Tools in our workflow
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,tailwind,postgres,prisma,mongodb,redis,git,github,heroku,vercel&perline=7" alt="Technology stack icons" />
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,tailwind,postgres,prisma,mongodb,redis,git,github,heroku,vercel&perline=7" alt="Technologies used across our projects" />
+
 </div>
 
-## GitHub at a glance
+---
+
+## GitHub / Account analytics
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ev-pro047&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=github_dark&title_color=38bdf8&icon_color=38bdf8" alt="GitHub account statistics" />
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com?user=ev-pro047&theme=github-dark-blue&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub contribution streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ev-pro047&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent&title_color=0E7490&icon_color=0E7490&text_color=64748B" alt="GitHub account statistics" />
+&nbsp;
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=ev-pro047&theme=transparent&hide_border=true&ring=0E7490&fire=0E7490&currStreakLabel=0E7490&sideLabels=64748B&dates=64748B" alt="GitHub contribution streak" />
 
 <br/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ev-pro047&layout=compact&langs_count=8&hide_border=true&theme=github_dark&title_color=38bdf8" alt="Most used languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ev-pro047&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=transparent&title_color=0E7490&text_color=64748B" alt="Most used languages" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ev-pro047&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub profile trophies" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ev-pro047&bg_color=ffffff00&color=64748b&line=0e7490&point=0e7490&area=true&hide_border=true" width="100%" alt="GitHub contribution activity" />
 
 </div>
 
-## Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ev-pro047&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub profile trophies" />
-</div>
-
-## Contribution activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ev-pro047&bg_color=0d1117&color=c9d1d9&line=0e7490&point=38bdf8&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-</div>
+<sub>Private contribution totals depend on GitHub's profile visibility settings and the access/configuration of each statistics provider. No private repository contents are displayed here.</sub>
 
 ---
 
 <div align="center">
 
-### Find our work
+### BUILD WITH INTENT. SHIP WITH CARE.
 
-<a href="https://github.com/ev-pro047"><img src="https://img.shields.io/badge/GitHub-EV--PRO-181717?style=for-the-badge&logo=github" alt="EV-PRO on GitHub" /></a>
-<a href="https://xyrenlabs.in"><img src="https://img.shields.io/badge/Website-XyrenLabs-0e7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="XyrenLabs website" /></a>
+<a href="https://github.com/ev-pro047">GitHub</a>
+&nbsp;·&nbsp;
+<a href="https://xyrenlabs.in">XyrenLabs</a>
+&nbsp;·&nbsp;
+<a href="https://tgdrive-2f2ed27ee0c2.herokuapp.com">TG-Drive</a>
 
-**Two founders. One shared workspace. Always building.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0891b2,55:164e63,100:101827" alt="" />
+<sub>EV / PRO — Shared engineering workspace · India</sub>
 
 </div>
