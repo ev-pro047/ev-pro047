@@ -72,6 +72,46 @@ jobs:
           cp dist/github-snake.svg profile-assets/github-snake.svg
           cp dist/github-snake-dark.svg profile-assets/github-snake-dark.svg
 
+      - name: Check public project endpoints
+        id: project_status
+        env:
+          TGDRIVE_URL: https://tgdrive-2f2ed27ee0c2.herokuapp.com
+          XYRENLABS_URL: https://xyrenlabs.in
+        run: |
+          check_url() {
+            if curl --fail --location --silent --show-error --max-time 25 "$1" -o /dev/null; then
+              echo "online"
+            else
+              echo "check-failed"
+            fi
+          }
+          echo "tgdrive=$(check_url "$TGDRIVE_URL")" >> "$GITHUB_OUTPUT"
+          echo "xyrenlabs=$(check_url "$XYRENLABS_URL")" >> "$GITHUB_OUTPUT"
+
+      - name: Render project status visual
+        env:
+          TGDRIVE_STATUS: ${{ steps.project_status.outputs.tgdrive }}
+          XYRENLABS_STATUS: ${{ steps.project_status.outputs.xyrenlabs }}
+        run: |
+          mkdir -p profile-assets
+          tg_color="#16a34a"
+          xy_color="#16a34a"
+          [ "$TGDRIVE_STATUS" = "online" ] || tg_color="#d97706"
+          [ "$XYRENLABS_STATUS" = "online" ] || xy_color="#d97706"
+          cat > profile-assets/project-status.svg <<EOF
+          <svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="Project HTTP reachability status">
+            <rect width="900" height="150" rx="12" fill="#0f172a"/>
+            <text x="28" y="34" fill="#94a3b8" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">LIVE PROJECT CHECKS · HTTP REACHABILITY</text>
+            <text x="28" y="91" fill="#f8fafc" font-family="Arial,sans-serif" font-size="22" font-weight="600">TG-Drive</text>
+            <circle cx="225" cy="83" r="6" fill="$tg_color"/>
+            <text x="242" y="89" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="16">$TGDRIVE_STATUS</text>
+            <text x="480" y="91" fill="#f8fafc" font-family="Arial,sans-serif" font-size="22" font-weight="600">XyrenLabs</text>
+            <circle cx="680" cy="83" r="6" fill="$xy_color"/>
+            <text x="697" y="89" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="16">$XYRENLABS_STATUS</text>
+            <text x="28" y="126" fill="#64748b" font-family="Arial,sans-serif" font-size="11">Automated check · not a full uptime guarantee</text>
+          </svg>
+          EOF
+
       - name: Commit generated visuals
         run: |
           git config user.name "github-actions[bot]"
