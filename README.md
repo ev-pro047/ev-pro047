@@ -1,298 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:22D3EE&height=240&section=header&text=EV%20PRO%20%E2%80%A2%20&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Founder%20%7C%20Full-Stack%20Developer%20%7C%20Product%20Builder&descAlignY=58&descSize=17" width="100%" />
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2800&pause=700&center=true&vCenter=true&width=850&lines=Full-Stack+Web+Developer;Founder+%E2%80%A2+Builder+%E2%80%A2+Creator;Next.js+%7C+React+%7C+Node.js+%7C+MongoDB;Building+scalable+digital+products+from+India" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ev-pro047&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/ev-pro047?label=Followers&style=for-the-badge&color=22c55e" />
-<img src="https://img.shields.io/github/stars/ev-pro047?label=Total%20Stars&style=for-the-badge&color=facc15" />
-
-</div>
-
----
-
-## 🚀 About Me
-
-```txt
-Founder     : Akshat Kumar
-Co-Founder  : Sarthak Jha
-GitHub      : ev-pro047
-Focus       : Full-Stack Development, APIs, UI/UX, Deployment
-Location    : India
-```
-
----
-
-## 🧠 What I Build
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 Web Platforms
-
-- Modern responsive websites  
-- SaaS-style dashboards  
-- Admin panels  
-- Landing pages  
-- Educational platforms  
-- Production-ready UI systems  
-
-</td>
-<td width="50%">
-
-### ⚙️ Backend & APIs
-
-- REST APIs  
-- Authentication systems  
-- MongoDB integrations  
-- Express.js servers  
-- Heroku deployments  
-- Secure server-side workflows  
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎨 UI / UX
-
-- Dark theme interfaces  
-- Professional dashboards  
-- Mobile-first layouts  
-- Smooth animations  
-- Clean component systems  
-- Brand-focused designs  
-
-</td>
-<td width="50%">
-
-### 🛠️ DevOps & Deployment
-
-- GitHub workflows  
-- Heroku deployment  
-- Vercel deployment  
-- Environment variables  
-- Production fixes  
-- Repository management  
-
-</td>
-</tr>
-</table>
-
----
-
-## 💻 My Tech Stack
-
-<div align="center">
-
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-<br/>
-
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-<br/>
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-<br/>
-
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ev-pro047&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&custom_title=Akshat%20Kumar%27s%20GitHub%20Stats" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ev-pro047&theme=dark&hide_border=false" />
-
-<br/><br/>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ev-pro047&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ev-pro047&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" />
-
-</div>
-
----
-
-## 📈 Contribution Activity Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ev-pro047&theme=github-dark&hide_border=false&area=true&custom_title=Akshat%20Kumar%27s%20Contribution%20Graph" />
-
-</div>
-
----
-
-## 🔥 GitHub Profile Summary
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ev-pro047&theme=github_dark" />
-
-<br/><br/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ev-pro047&theme=github_dark" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ev-pro047&theme=github_dark" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ev-pro047&theme=github_dark&utcOffset=5.5" />
-
-</div>
-
----
-
-## 📌 Featured Repositories
-
-
-
----
-
-## 🧑‍💼 Leadership
-
-<table>
-<tr>
-<td width="50%">
-
-### 👑 Founder
-
-**Akshat Kumar**  
-Founder, developer, and product builder behind EV PRO.
-
-</td>
-<td width="50%">
-
-### 🤝 Co-Founder
-
-**Sarthak Jha**  
-Co-founder and core collaborator.
-
-</td>
-</tr>
-</table>
-
----
-
-## ⚡ Current Focus
-
-```txt
-Building production-level web platforms
-Improving backend scalability
-Creating clean and professional user interfaces
-Working on modern full-stack projects
-Deploying apps with Heroku, Vercel, and GitHub
-Creating reliable APIs and dashboard systems
-```
-
----
-
-## 🧬 Developer DNA
-
-```js
-const akshat = {
-  name: "Akshat Kumar",
-  username: "ev-pro047",
-  role: "Founder",
-  coFounder: "Sarthak Jha",
-  focus: [
-    "Full-Stack Development",
-    "Web Platforms",
-    "Backend APIs",
-    "UI/UX",
-    "Deployment"
-  ],
-  stack: [
-    "Next.js",
-    "React",
-    "Node.js",
-    "Express",
-    "MongoDB",
-    "Tailwind CSS"
-  ],
-  mindset: "Build fast. Improve constantly. Ship professionally."
-};
-```
-
----
-
-## 🌍 Connect With Me
-
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:101827,45:164e63,100:0891b2&text=EV-PRO&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Shared%20Engineering%20Account&descAlignY=60&descSize=18&animation=fadeIn" alt="EV-PRO — Shared Engineering Account" />
 
 <a href="https://github.com/ev-pro047">
-  <img src="https://img.shields.io/badge/GitHub-ev--pro047-181717?style=for-the-badge&logo=github" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=850&color=38BDF8&center=true&vCenter=true&width=760&lines=Two+founders%2C+one+shared+workspace;Building+useful+digital+products;Product+engineering+%7C+Web+platforms+%7C+Developer+tools;Turning+ideas+into+working+software" alt="Typing introduction" />
 </a>
 
-<a href="mailto:akshatkumar90157678@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<br/>
+
+<a href="https://github.com/ev-pro047"><img src="https://komarev.com/ghpvc/?username=ev-pro047&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views" /></a>
+<a href="https://github.com/ev-pro047?tab=followers"><img src="https://img.shields.io/github/followers/ev-pro047?style=for-the-badge&logo=github&label=FOLLOWERS&color=334155" alt="GitHub followers" /></a>
+<a href="https://github.com/ev-pro047?tab=repositories"><img src="https://img.shields.io/github/stars/ev-pro047?style=for-the-badge&logo=github&label=STARS&color=0e7490" alt="GitHub stars" /></a>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## The people behind the account
+
+This is a shared engineering account used by two founders to collaborate on products, experiments, and software projects.
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Akshat Kumar</h3>
+      <strong>Founder</strong>
+      <br/>
+      Product direction · Engineering · Development
+    </td>
+    <td align="center" width="50%">
+      <h3>Sarthak Jha</h3>
+      <strong>Co-Founder</strong>
+      <br/>
+      Product collaboration · Engineering
+    </td>
+  </tr>
+</table>
+
+> The repositories and contribution statistics here represent the shared account. They are not a breakdown of each founder's individual activity.
+
+## What we work on
+
+- **Product engineering** — taking ideas from an initial concept to usable software.
+- **Full-stack applications** — web apps, dashboards, and product interfaces.
+- **Backend systems** — APIs, authentication, data models, and integrations.
+- **UI engineering** — responsive interfaces and practical user experiences.
+- **Deployment and reliability** — shipping, debugging, and improving production applications.
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://tgdrive-2f2ed27ee0c2.herokuapp.com">TG-Drive</a></h3>
+      A Telegram-powered personal cloud drive with a dedicated web file-management experience.
+      <br/><br/>
+      <a href="https://tgdrive-2f2ed27ee0c2.herokuapp.com"><img src="https://img.shields.io/badge/Live%20Application-Visit-0e7490?style=for-the-badge" alt="Visit TG-Drive" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://xyrenlabs.in">XyrenLabs</a></h3>
+      Our development studio identity, focused on building digital products and software experiences.
+      <br/><br/>
+      <a href="https://xyrenlabs.in"><img src="https://img.shields.io/badge/Studio-XyrenLabs-334155?style=for-the-badge" alt="Visit XyrenLabs" /></a>
+    </td>
+  </tr>
+</table>
+
+## Technology
+
+Tools and technologies we work with across our projects:
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,tailwind,postgres,prisma,mongodb,redis,git,github,heroku,vercel&perline=7" alt="Technology stack icons" />
+</div>
+
+## GitHub at a glance
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ev-pro047/ev-pro047/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ev-pro047/ev-pro047/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ev-pro047/ev-pro047/output/github-contribution-grid-snake.svg">
-</picture>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=ev-pro047&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=github_dark&title_color=38bdf8&icon_color=38bdf8" alt="GitHub account statistics" />
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com?user=ev-pro047&theme=github-dark-blue&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub contribution streak" />
 
+<br/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ev-pro047&layout=compact&langs_count=8&hide_border=true&theme=github_dark&title_color=38bdf8" alt="Most used languages" />
+
+</div>
+
+## Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ev-pro047&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub profile trophies" />
+</div>
+
+## Contribution activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ev-pro047&bg_color=0d1117&color=c9d1d9&line=0e7490&point=38bdf8&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 </div>
 
 ---
 
 <div align="center">
 
-### ⭐ “Code is not just logic. It is how ideas become real.”
+### Find our work
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0EA5E9,100:0F172A&height=120&section=footer" width="100%" />
+<a href="https://github.com/ev-pro047"><img src="https://img.shields.io/badge/GitHub-EV--PRO-181717?style=for-the-badge&logo=github" alt="EV-PRO on GitHub" /></a>
+<a href="https://xyrenlabs.in"><img src="https://img.shields.io/badge/Website-XyrenLabs-0e7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="XyrenLabs website" /></a>
+
+**Two founders. One shared workspace. Always building.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0891b2,55:164e63,100:101827" alt="" />
 
 </div>
