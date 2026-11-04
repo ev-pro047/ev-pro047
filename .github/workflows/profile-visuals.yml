@@ -1,6 +1,8 @@
 name: Refresh profile visuals
 
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: "23 18 * * *"
   workflow_dispatch:
